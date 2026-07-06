@@ -25,6 +25,7 @@ hificorp.co.za
 checkers.co.za
 sixty60.co.za
 pnp.co.za
+pepstores.com
 
 # --- Car marketplaces / classifieds ---
 autotrader.co.za
