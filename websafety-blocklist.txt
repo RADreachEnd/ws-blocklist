@@ -39,6 +39,7 @@ autodealer.co.za
 cars.com
 carmax.com
 edmunds.com
+junkmail.co.za
 
 # --- Car manufacturers / dealers (mainstream) ---
 toyota.co.za
