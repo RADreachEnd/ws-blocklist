@@ -164,6 +164,7 @@ spur.co.za
 wimpy.co.za
 order-in.co.za
 opentable.com
+burgerking.co.za
 
 # --- Travel / flights / accommodation ---
 travelstart.co.za
